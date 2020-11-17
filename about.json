@@ -1,0 +1,29 @@
+{
+  "name": "Dark Rose",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Dark Rose": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "59e9fd",
+      "quaternary": "fa6060",
+      "header_background": "bb60fa",
+      "header_primary": "ffffff",
+      "highlight": "6c3e63",
+      "danger": "c01010",
+      "success": "54ea4c",
+      "love": "d9b2bb"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
